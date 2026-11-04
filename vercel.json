@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://easy-autonomy-704375.framer.app/$1"
+    }
+  ]
+}
